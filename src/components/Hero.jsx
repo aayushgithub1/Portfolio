@@ -42,7 +42,7 @@ const Hero = () => {
           {/* Circular image */}
         <div className="absolute top-0 right-2 transform translate-x-10">
           <img
-            src="src/components/Aayush.png"
+            src="./Aayush.png"
             alt="Aayush Raj Verma"
             className="w-[300px] h-[300px] object-cover rounded-full border-4"
             style={{ borderColor: 'hsl(259, 100%, 68%)' }} 
